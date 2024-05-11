@@ -1,0 +1,46 @@
+/*global*/
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: Arial
+}
+h1,h2,h3{
+    padding-bottom:10px;
+    padding-top: 10px; 
+}
+img{
+    max-width: 30%
+}
+p{
+    line-height: 1.5;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+/*utilities*/
+.container{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;    
+}
+.btn-read-more{
+    display:inline-block;
+    background-color: black;
+    color:white;
+    padding: 10px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-size: 12px;
+}
+.btn-more-information{
+    display: inline-block;
+    background-color: sienna;
+    color: white;
+    padding: 10px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-size: 12px;
+}
